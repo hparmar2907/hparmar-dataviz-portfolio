@@ -1,14 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Harnoor Parmar  
+### Telling Stories with Data Portfolio | Carnegie Mellon University  
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Welcome to my data visualization portfolio for the Telling Stories with Data course at CMU.  
+Here, I’ve shared projects that explore how design, storytelling, and analytics come together to make data meaningful.
 
 # About me
 Hi! I’m Harnoor Parmar (she/her), a graduate student in Information Systems Management at Carnegie Mellon University. I’m interested in how technology, data, and storytelling come together to create real impact.
@@ -18,7 +14,7 @@ Before CMU, I worked as a Software Developer at BlackRock, building backend syst
 # What I hope to learn
 Through this course, I want to get better at using data visualization to tell clear and meaningful stories. I’m especially interested in how thoughtful design choices can make complex information easier to understand and more impactful for different audiences. I’d love to explore new tools and techniques that help bridge the gap between analysis and communication.
 
-After I graduate, I plan to work in a technical or data-focused role where I can combine my background in software engineering with my growing interest in analytics and visualization. My goal is to keep building tools and systems that help people make better, data-driven decisions — and hopefully, make technology feel a bit more human in the process.
+After I graduate, I plan to work in a **technical or data-focused role** where I can combine my background in software engineering with my growing interest in analytics and visualization. My goal is to keep building tools and systems that help people make better, data-driven decisions — and hopefully, make technology feel a bit more human in the process.
 
 # Portfolio
 
