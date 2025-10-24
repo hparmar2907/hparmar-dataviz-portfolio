@@ -11,20 +11,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m Harnoor Parmar (she/her), a graduate student in Information Systems Management at Carnegie Mellon University. I’m interested in how technology, data, and storytelling come together to create real impact.
+
+Before CMU, I worked as a Software Developer at BlackRock, building backend systems that supported large-scale data workflows. These days, I’m exploring how data visualization can make complex ideas more intuitive and engaging. When I’m not working with data, you’ll probably find me on a walk around Schenley Park or experimenting with new coffee blends.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Through this course, I want to get better at using data visualization to tell clear and meaningful stories. I’m especially interested in how thoughtful design choices can make complex information easier to understand and more impactful for different audiences. I’d love to explore new tools and techniques that help bridge the gap between analysis and communication.
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+After I graduate, I plan to work in a technical or data-focused role where I can combine my background in software engineering with my growing interest in analytics and visualization. My goal is to keep building tools and systems that help people make better, data-driven decisions — and hopefully, make technology feel a bit more human in the process.
 
 # Portfolio
 
