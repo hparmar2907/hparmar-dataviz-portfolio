@@ -26,6 +26,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 This section will include my work for the final project in Telling Stories with Data.
+
 Here are the parts I’ll be adding as I go: 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
