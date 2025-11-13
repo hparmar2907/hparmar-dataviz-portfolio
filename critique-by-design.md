@@ -84,5 +84,5 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+All ideas, analysis, and design decisions in this project are entirely my own. I used AI tools (specifically GitHub Copilot) only for minor rephrasing and grammatical improvements to make my written reflections clearer and more concise. No AI assistance was used for concept development, critique insights, or visualization design.
 
