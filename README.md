@@ -19,10 +19,10 @@ After I graduate, I plan to work in a **technical or data-focused role** where I
 # Portfolio
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This project explores how government debt has evolved across countries over time and how design choices shape public understanding of economic data. I analyzed different ways to visualize debt-to-GDP ratios and created a clear, data-driven graphic that highlights key trends and regional contrasts while maintaining visual balance and interpretability.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+In this project, I analyzed a NOAA climate visualization on greenhouse gas trends, critiquing it for clarity, accessibility, and design effectiveness. Using those insights, I created an interactive redesign where users can click any year to compare changes, view percentage shifts, and explore how different gases have evolved over time. The project focuses on improving data storytelling through thoughtful color, interaction, and usability choices. 
 
 ## Final project
 This section will include my work for the final project in Telling Stories with Data.
