@@ -1,18 +1,26 @@
 | [home page](https://hparmar2907.github.io/hparmar-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Greenhouse Gases, Clearer: Redesigning NOAA’s Figure 4 for Comparative Insight
+This project began as a critique of Figure 4 from NOAA’s Annual Greenhouse Gas Index (AGGI) report — a visualization showing the long-term increase of greenhouse gases since 1750. While the original figure is scientifically rigorous and visually clean, it’s primarily designed for technical audiences and makes it difficult to compare individual gases or explore specific time periods.
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+Using Stephen Few’s Data Visualization Effectiveness Profile, I analyzed the figure across seven criteria, identifying strengths in accuracy and completeness but weaknesses in intuitiveness and engagement. From there, I set out to redesign the visualization to make it more interactive, comparative, and accessible. My redesign allows users to click any year as a baseline and view how concentrations of each greenhouse gas have changed relative to that point, while also displaying the percentage change over time.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+This portfolio entry documents my full process — from critique and sketches to feedback and redesign — and reflects on how small design choices can make complex scientific data more understandable and engaging for broader audiences.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+###Original Source: https://gml.noaa.gov/aggi/aggi.html (Figure 4)
+I selected this data visualization because it offers a comprehensive, long-term view of greenhouse gas trends, tracing atmospheric CO₂ and total greenhouse gas forcing from 1750 to the present. The figure effectively communicates the magnitude of change over centuries and serves as an authoritative source grounded in scientific data. However, its design—while precise—feels heavily geared toward expert audiences. The technical terminology, dual y-axes, and lack of contextual cues (like key policy events or clearly marked baselines) make it difficult for general readers to interpret.
+
+I found this visualization compelling because it sits at the intersection of scientific rigor and public communication. Climate data is inherently complex, and this figure captures that complexity beautifully but without much accessibility. That tension made it an ideal candidate for critique and redesign: I wanted to explore how thoughtful visual design and interactivity could make such information clearer, more comparative, and more engaging without sacrificing accuracy.
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Using Stephen Few’s Data Visualization Effectiveness Profile, I evaluated NOAA’s Figure 4 across seven criteria: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. The figure is highly accurate and comprehensive, clearly depicting the long-term rise in greenhouse gases and the relationship between CO₂, CO₂-equivalent concentrations, and the AGGI index. It succeeds in its truthfulness and usefulness for technical audiences such as scientists and policymakers, offering reliable, well-cited data that supports evidence-based discussions.
+
+However, the visualization also presents several accessibility and interpretability challenges. The use of dual y-axes requires additional cognitive effort and can confuse viewers unfamiliar with the difference between concentration and index values. Terms like AGGI and CO₂-equivalent abundance are not defined visually, making the figure less intuitive for non-experts. While the aesthetics are clean and professional, the chart lacks narrative or contextual elements—such as historical milestones, annotations, or interactive cues—that could make the data more engaging and easier to connect to real-world events.
+
+Through this critique, I realized how small design choices—like labeling the 1990 baseline or providing a quick explanation of key terms—could make the visualization far more approachable without compromising accuracy. This analysis directly informed my redesign goals: to create a version that retains the scientific rigor of the original while improving comparability, interactivity, and overall user understanding.
 
 ## Step three: Sketch a solution
 
