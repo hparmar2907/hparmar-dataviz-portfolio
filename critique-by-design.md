@@ -70,11 +70,11 @@ The interactive elements were particularly well received. Several participants l
 
 Based on this feedback, I plan to:
 
-Refine the color palette for better clarity and differentiation.
+- Refine the color palette for better clarity and differentiation.
 
-Reword the interactive instruction to “Click a year on the line to compare.”
+- Reword the interactive instruction to “Click a year on the line to compare.”
 
-Retain all individual gases while emphasizing clearer visual separation.
+- Retain all individual gases while emphasizing clearer visual separation.
 
 ## Step five: build the solution
 
