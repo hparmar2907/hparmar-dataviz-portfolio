@@ -53,18 +53,28 @@ Below are the detailed results from these interviews, followed by a synthesis of
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+After conducting short interviews with three participants — a **policy student**, an **engineer**, and a **non-technical graduate student** — I gathered feedback to evaluate how effectively the redesigned visualization communicated information and whether it was intuitive to use.
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| **Question** | **Interview 1 (Policy Student)** | **Interview 2 (Engineer)** | **Interview 3 (Non-Technical Viewer)** |
+|---------------|----------------------------------|-----------------------------|----------------------------------------|
+| **What do you think this is?** | Understood that the visualization showed trends in different greenhouse gases over time. Found the separation of gases into individual panels helpful for comparison. | Identified that the chart compared gases individually and also included an overall total, which made it easy to understand the broader pattern. | Recognized that it displayed changes in multiple gases but was initially unsure about the interactivity until noticing the clickable line feature. |
+| **What is this telling you?** | Observed that certain gases, such as CFCs, declined while others, like HFCs and CO₂, increased. | Noted that percentage-change values made the differences between gases clear. | Saw that CO₂ showed the most consistent and steep increase compared to others. |
+| **Anything surprising or confusing?** | Mentioned that the color palette was attractive but not immediately clear in meaning. | Found the colors well-balanced and easy to read. | Suggested that some gases behaved similarly and might be combined or removed to simplify the layout. |
+| **Who is the intended audience?** | Believed it would be useful for policymakers or students studying environmental trends. | Thought it was well-suited for technical or analytical users. | Felt that it could appeal to general audiences if small clarifications were added. |
+| **Anything you would change?** | Recommended labeling key policy years, such as 1990 or 2015, to add context. | Suggested refining the instruction to say “click a year on the line to compare” for clarity. | Proposed adding a brief legend explaining the color gradient and simplifying redundant gases. |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The feedback revealed common themes around clarity, color interpretation, and interactivity. Participants liked the comparative layout, noting that showing both individual gases and the total trend made the visualization more comprehensive. Some suggested grouping gases with similar trends to simplify the view, while others preferred seeing each gas individually—so I plan to keep all gases visible.
+The interactive elements were particularly well received. Several participants liked that hovering over a line displayed both the percentage change and the AGGI value, which helped them connect the trends to measurable impacts. A few viewers mentioned that the color palette could be refined for clearer meaning, and that the interactive instruction heading (“Click a year to compare”) could be more explicit. There were also suggestions to add contextual elements such as policy-year markers and a simple legend.
+
+Based on this feedback, I plan to:
+
+Refine the color palette for better clarity and differentiation.
+
+Reword the interactive instruction to “Click a year on the line to compare.”
+
+Retain all individual gases while emphasizing clearer visual separation.
 
 ## Step five: build the solution
 
