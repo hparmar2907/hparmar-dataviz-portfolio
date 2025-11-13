@@ -33,7 +33,7 @@ Before finalizing my redesigned visualization, I wanted to understand how differ
 
 To do this, I prepared a short interview script and conducted informal feedback sessions with three participants.Below is the set of questions I used to guide each discussion. I kept them open-ended to encourage honest and detailed feedback rather than yes/no answers.
 
-Questions to ask: 
+### Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -51,7 +51,7 @@ Some participants appreciated the color palette, saying it was clear and visuall
 
 Below are the detailed results from these interviews, followed by a synthesis of the main feedback themes and how I plan to incorporate those changes into the final redesign.
 
-Results: 
+### Results: 
 
 After conducting short interviews with three participants — a **policy student**, an **engineer**, and a **non-technical graduate student** — I gathered feedback to evaluate how effectively the redesigned visualization communicated information and whether it was intuitive to use.
 
@@ -63,7 +63,7 @@ After conducting short interviews with three participants — a **policy student
 | **Who is the intended audience?** | Believed it would be useful for policymakers or students studying environmental trends. | Thought it was well-suited for technical or analytical users. | Felt that it could appeal to general audiences if small clarifications were added. |
 | **Anything you would change?** | Recommended labeling key policy years, such as 1990 or 2015, to add context. | Suggested refining the instruction to say “click a year on the line to compare” for clarity. | Proposed adding a brief legend explaining the color gradient and simplifying redundant gases. |
 
-Synthesis: 
+### Synthesis: 
 
 The feedback revealed common themes around clarity, color interpretation, and interactivity. Participants liked the comparative layout, noting that showing both individual gases and the total trend made the visualization more comprehensive. Some suggested grouping gases with similar trends to simplify the view, while others preferred seeing each gas individually—so I plan to keep all gases visible.
 The interactive elements were particularly well received. Several participants liked that hovering over a line displayed both the percentage change and the AGGI value, which helped them connect the trends to measurable impacts. A few viewers mentioned that the color palette could be refined for clearer meaning, and that the interactive instruction heading (“Click a year to compare”) could be more explicit. There were also suggestions to add contextual elements such as policy-year markers and a simple legend.
