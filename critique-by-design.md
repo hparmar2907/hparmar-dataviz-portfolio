@@ -29,9 +29,11 @@ After completing my critique, I began thinking about how I could preserve the sc
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Before finalizing my redesigned visualization, I wanted to understand how different users would interpret and interact with it. My goal was to see whether the new layout and features—like showing percentage change and allowing users to click a year to set a baseline—made the data easier to understand compared to the original NOAA figure.
 
-Questions to ask (modify these for your own interviews): 
+To do this, I prepared a short interview script and conducted informal feedback sessions with three participants.Below is the set of questions I used to guide each discussion. I kept them open-ended to encourage honest and detailed feedback rather than yes/no answers.
+
+Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -42,6 +44,12 @@ Questions to ask (modify these for your own interviews):
 - Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
+
+During the sessions, I took notes on participants’ initial reactions, the parts of the visualization that caught their attention, and the specific areas they found confusing or engaging. This feedback helped me identify which design choices worked well—such as the comparative panels and the inclusion of a total greenhouse gas line—and which elements needed refinement, like the interactivity instructions and color interpretation.
+
+Some participants appreciated the color palette, saying it was clear and visually consistent, while others mentioned it was not immediately intuitive what the colors represented. Several users really liked that each gas was shown separately, along with an overall “total” panel, since it helped them make clearer comparisons. One user suggested improving the interactivity cue by changing the text from “Click a year to compare” to “Click a year on the line to compare”, which would make the action more specific and easier to discover. Another pointed out that certain gases followed very similar trends, and removing or combining them might simplify the visualization and reduce visual clutter.
+
+Below are the detailed results from these interviews, followed by a synthesis of the main feedback themes and how I plan to incorporate those changes into the final redesign.
 
 Results: 
 
