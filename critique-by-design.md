@@ -9,7 +9,7 @@ This portfolio entry documents my full process — from critique and sketches to
 
 ## Step one: the visualization
 
-###Original Source : https://gml.noaa.gov/aggi/aggi.html (Figure 4)
+**[Original Source](https://gml.noaa.gov/aggi/aggi.html)**  
 I selected this data visualization because it offers a comprehensive, long-term view of greenhouse gas trends, tracing atmospheric CO₂ and total greenhouse gas forcing from 1750 to the present. The figure effectively communicates the magnitude of change over centuries and serves as an authoritative source grounded in scientific data. However, its design—while precise—feels heavily geared toward expert audiences. The technical terminology, dual y-axes, and lack of contextual cues (like key policy events or clearly marked baselines) make it difficult for general readers to interpret.
 
 I found this visualization compelling because it sits at the intersection of scientific rigor and public communication. Climate data is inherently complex, and this figure captures that complexity beautifully but without much accessibility. That tension made it an ideal candidate for critique and redesign: I wanted to explore how thoughtful visual design and interactivity could make such information clearer, more comparative, and more engaging without sacrificing accuracy.
