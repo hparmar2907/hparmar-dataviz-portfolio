@@ -81,7 +81,9 @@ Based on this feedback, I plan to:
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
+NOAA Global Monitoring Laboratory. (2024). Annual Greenhouse Gas Index (AGGI). https://gml.noaa.gov/aggi/aggi.html
 Climate Change: Global Radiative Forcing – #MakeoverMonday 2023 Week 1 [Video]. YouTube. https://www.youtube.com/watch?v=nVkof5z5Rbo
+The Greenhouse Gas Index – Viz Review w/ Eva Murray – 2023 Week 1 [Video]. YouTube. https://www.youtube.com/watch?v=FJ2p_hvAeFk
 
 ## AI acknowledgements
 All ideas, analysis, and design decisions in this project are entirely my own. I used AI tools (specifically GitHub Copilot) only for minor rephrasing and grammatical improvements to make my written reflections clearer and more concise. No AI assistance was used for concept development, critique insights, or visualization design.
