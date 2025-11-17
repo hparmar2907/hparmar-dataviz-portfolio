@@ -16,7 +16,8 @@ Student living costs have risen faster and less predictably than tuition, creati
 - As a university staff member, I want to see which categories strain students the most so that campus support programs can be better designed.
 
 ## Story Arc
-- to do....
+The following story arc illustrates the emotional and analytical progression of my project. It shows how students’ experiences move from initial awareness of tuition to rising pressure from living costs, the low point of affordability struggles, and ultimately toward a clearer understanding of the real drivers behind student financial stress - ending in a call to action.
+![Story Arc](StoryArc.png)
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
