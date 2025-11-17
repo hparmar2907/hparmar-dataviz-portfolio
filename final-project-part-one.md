@@ -8,7 +8,7 @@ College affordability is often discussed strictly in terms of tuition, but the l
 
 Rather than creating a dashboard of disconnected charts, my goal is to build a narrative that helps the audience feel the financial pressure through the combination of numbers, comparisons, and human-centered design. The project will highlight which categories are rising fastest, where regional differences matter, and how student earnings have not kept pace. Ultimately, this story is meant to help students, families, and educators understand where the real strain lies—and why it matters.
 
-## Story
+## Storyline
 Student living costs have risen faster and less predictably than tuition, creating financial pressure that most people do not see.
 
 ## User Stories
@@ -18,7 +18,8 @@ Student living costs have risen faster and less predictably than tuition, creati
 
 - As a university staff member, I want to see which categories strain students the most so that campus support programs can be better designed.
 
-
+## Story Arc
+- to do....
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
