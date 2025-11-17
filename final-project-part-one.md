@@ -4,13 +4,21 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+College affordability is often discussed strictly in terms of tuition, but the lived financial reality for students is shaped far more by everyday expenses—housing, food, textbooks, transportation, and part-time wages. My project aims to tell a clear, data-driven story about how the overall cost of being a college student has evolved over the past decade, and how those shifts quietly affect students’ choices, stress levels, and academic life.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Rather than creating a dashboard of disconnected charts, my goal is to build a narrative that helps the audience feel the financial pressure through the combination of numbers, comparisons, and human-centered design. The project will highlight which categories are rising fastest, where regional differences matter, and how student earnings have not kept pace. Ultimately, this story is meant to help students, families, and educators understand where the real strain lies—and why it matters.
 
-Text here...
+## Story
+Student living costs have risen faster and less predictably than tuition, creating financial pressure that most people do not see.
+
+## User Stories
+- As a current student, I want to understand why my cost of living feels so high, so that I can make informed decisions about work, housing, and budgeting.
+
+- As a prospective student or parent, I want to know what expenses to expect beyond tuition so that I’m not surprised later.
+
+- As a university staff member, I want to see which categories strain students the most so that campus support programs can be better designed.
+
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
