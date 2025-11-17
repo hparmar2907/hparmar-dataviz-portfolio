@@ -50,7 +50,15 @@ National Center for Education Statistics (NCES):
 For my final project, I plan to create an interactive, scroll-based story using Shorthand, paired with data visualizations built in Tableau. Shorthand will allow me to structure the narrative according to my story arc, integrate text, sketches, and visuals, and guide the reader through the emotional progression of the project. Tableau will be used to produce all charts, maps, and comparative graphics—ensuring they are clean, interactive, and consistent with the course tools. My final deliverable will be a standalone digital story that combines narrative, visualization, and user-friendly design, fully aligning with the class requirement for an interactive and accessible format.
 
 ## References
-_List any references you used here._
+College Board. Trends in College Pricing and Student Aid. Retrieved from: <https://research.collegeboard.org/trends/college-pricing>
+
+U.S. Bureau of Labor Statistics. Consumer Price Index (CPI). Retrieved from: <https://www.bls.gov/cpi/>
+
+National Center for Education Statistics (NCES). Student Characteristics, Employment, and Cost of Attendance Data. Retrieved from: <https://nces.ed.gov/>
+
+Few, Stephen. Data Visualization Effectiveness Profile and related principles discussed in class.
+
+Good Charts (Class Textbook). Story structure concepts from Chapter 8.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to support portions of this assignment in accordance with course guidelines. Specifically, I used it to help refine the wording, improve clarity, and format sections such as the outline, data description, and method/medium narrative. I also used AI to generate draft language that I revised, and to assist with structuring markdown formatting for my portfolio. All decisions about content, data sources, project direction, visual design, and analysis were made by me, and AI assistance was limited to editing support and idea organization.
