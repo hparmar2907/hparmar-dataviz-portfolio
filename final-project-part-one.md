@@ -1,8 +1,5 @@
 | [home page](https://hparmar2907.github.io/hparmar-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 College affordability is often discussed strictly in terms of tuition, but the lived financial reality for students is shaped far more by everyday expenses—housing, food, textbooks, transportation, and part-time wages. My project aims to tell a clear, data-driven story about how the overall cost of being a college student has evolved over the past decade, and how those shifts quietly affect students’ choices, stress levels, and academic life.
 
