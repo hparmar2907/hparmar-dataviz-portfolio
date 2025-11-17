@@ -24,17 +24,27 @@ Student living costs have risen faster and less predictably than tuition, creati
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+To support the story behind my project, I identified several public, credible, and well-structured data sources that together capture the true cost of being a college student in the United States. These datasets come from national statistical agencies and higher-education research organizations, ensuring reliability and long-term consistency. All of the data I am using is fully publicly accessible, and copies are included in my GitHub repository for transparency and reproducibility.
 
-Text here...
+The first major dataset I am using is the College Board’s Trends in College Pricing report, which provides annual data on tuition, fees, room and board, and cost-of-attendance components across different types of institutions (public/private, two-year/four-year). This dataset is released each year and includes historical trends, inflation-adjusted pricing, and national averages. I will use this data to establish the difference between sticker tuition and the actual cost of attending college, and to highlight how housing and other non-tuition components contribute to total student expenses.
+I downloaded the 2025 Excel dataset and have included a copy in my GitHub folder for reference.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The second source is the Bureau of Labor Statistics (BLS) Consumer Price Index (CPI), which publishes monthly and annual inflation data for specific expenditure categories. The CPI includes categories that are directly relevant to students—such as rent, food at home, food away from home, and educational books/supplies (used as a proxy for textbook inflation). I will use these indices to compare the rate of increase in everyday student living costs relative to overall inflation and relative to tuition trends. This helps support the “Rising Pressures” section of my analysis.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+My third source is the National Center for Education Statistics (NCES), which provides survey-based data on student employment, average wages, financial aid, and enrollment patterns. These data will allow me to analyze how much students typically earn, how many hours they work, and how their ability to offset costs has changed over time. This directly supports the “Tradeoff Zone” section of my story, where I show how students cope with rising costs.
+
+All of these datasets are publicly available and can be accessed online. Copies of the primary data files I am using are also stored in my GitHub /data directory for easy reference.
+
+Publicly accessible sources:
+
+College Board Trends in College Pricing:
+https://research.collegeboard.org/trends/college-pricing
+
+Bureau of Labor Statistics CPI database:
+https://www.bls.gov/cpi/
+
+National Center for Education Statistics (NCES):
+https://nces.ed.gov/
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
