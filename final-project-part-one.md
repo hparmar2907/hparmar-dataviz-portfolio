@@ -38,18 +38,16 @@ All of these datasets are publicly available and can be accessed online. Copies 
 Publicly accessible sources:
 
 College Board Trends in College Pricing:
-https://research.collegeboard.org/trends/college-pricing
+<https://research.collegeboard.org/trends/college-pricing>
 
 Bureau of Labor Statistics CPI database:
-https://www.bls.gov/cpi/
+<https://www.bls.gov/cpi/>
 
 National Center for Education Statistics (NCES):
-https://nces.ed.gov/
+<https://nces.ed.gov/>
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For my final project, I plan to create an interactive, scroll-based story using Shorthand, paired with data visualizations built in Tableau. Shorthand will allow me to structure the narrative according to my story arc, integrate text, sketches, and visuals, and guide the reader through the emotional progression of the project. Tableau will be used to produce all charts, maps, and comparative graphics—ensuring they are clean, interactive, and consistent with the course tools. My final deliverable will be a standalone digital story that combines narrative, visualization, and user-friendly design, fully aligning with the class requirement for an interactive and accessible format.
 
 ## References
 _List any references you used here._
