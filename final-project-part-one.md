@@ -33,7 +33,7 @@ The second source is the Bureau of Labor Statistics (BLS) Consumer Price Index (
 
 My third source is the National Center for Education Statistics (NCES), which provides survey-based data on student employment, average wages, financial aid, and enrollment patterns. These data will allow me to analyze how much students typically earn, how many hours they work, and how their ability to offset costs has changed over time. This directly supports the “Tradeoff Zone” section of my story, where I show how students cope with rising costs.
 
-All of these datasets are publicly available and can be accessed online. Copies of the primary data files I am using are also stored in my GitHub /data directory for easy reference.
+All of these datasets are publicly available and can be accessed online. Copies of the primary data files I am using are also stored in my GitHub directory for easy reference.
 
 Publicly accessible sources:
 
