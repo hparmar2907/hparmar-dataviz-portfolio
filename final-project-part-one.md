@@ -37,6 +37,23 @@ slice of a much larger cost structure.
 **Figure 1.** Hand-drawn pie chart showing the breakdown of student expenses, with annotations highlighting 
 how housing, food, inflation, and other essentials contribute significantly to the total cost of being a student.
 
+## Sketch 2: Rising Pressures — What’s Getting More Expensive?
+
+This sketch explores the growing gap between tuition and the everyday living costs that students face. 
+While tuition continues to rise at a steady and predictable rate, essential non-tuition expenses such 
+as housing, food, and textbooks increase more rapidly and with greater volatility. The intention of 
+this sketch is to highlight the early tension within my narrative—students increasingly feel financial 
+pressure not because of tuition alone, but because the cost of “simply getting by” fluctuates faster 
+than their ability to keep up.
+
+<p align="center">
+  <img src="Sketch2.png" width="550">
+</p>
+
+*Figure 2. Hand-drawn line chart comparing rising tuition with the faster, less predictable rise in 
+living costs. Annotations reflect the student perspective and emphasize the emerging financial pressure 
+that builds through this phase of the story.*
+
 ---
 
 
