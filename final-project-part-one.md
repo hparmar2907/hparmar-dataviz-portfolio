@@ -34,8 +34,7 @@ slice of a much larger cost structure.
   <img src="Sketch1.jpeg" width="550">
 </p>
 
-**Figure 1.** Hand-drawn pie chart showing the breakdown of student expenses, with annotations highlighting 
-how housing, food, inflation, and other essentials contribute significantly to the total cost of being a student.
+*Figure 1. Hand-drawn pie chart showing the breakdown of student expenses, with annotations highlighting how housing, food, inflation, and other essentials contribute significantly to the total cost of being a student.*
 
 ## Sketch 2: Rising Pressures — What’s Getting More Expensive?
 
