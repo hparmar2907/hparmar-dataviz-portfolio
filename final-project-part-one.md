@@ -20,9 +20,25 @@ The following story arc illustrates the emotional and analytical progression of 
 ![Story Arc](StoryArc.png)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+---
 
-Text here...
+## Sketch 1: Introduction — What Students Really Spend Money On
+
+This sketch introduces the idea that student expenses extend far beyond tuition. Although tuition 
+is the most publicly discussed cost, students face several everyday financial pressures that often 
+add up to a much larger burden—housing, food, textbooks, and transportation. This hand-drawn pie 
+chart captures the full picture of where student money goes, emphasizing that tuition is only one 
+slice of a much larger cost structure.
+
+<p align="center">
+  <img src="Sketch1.jpeg" width="550">
+</p>
+
+**Figure 1.** Hand-drawn pie chart showing the breakdown of student expenses, with annotations highlighting 
+how housing, food, inflation, and other essentials contribute significantly to the total cost of being a student.
+
+---
+
 
 # The data
 To support the story behind my project, I identified several public, credible, and well-structured data sources that together capture the true cost of being a college student in the United States. These datasets come from national statistical agencies and higher-education research organizations, ensuring reliability and long-term consistency. All of the data I am using is fully publicly accessible, and copies are included in my GitHub repository for transparency and reproducibility.
