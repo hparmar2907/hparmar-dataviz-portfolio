@@ -53,6 +53,23 @@ than their ability to keep up.
 living costs. Annotations reflect the student perspective and emphasize the emerging financial pressure 
 that builds through this phase of the story.*
 
+## Sketch 3: How Students Are Trying to Cope
+
+As living costs have risen faster and less predictably than tuition, many students have turned to part-time work as their primary coping mechanism. However, working more hours is not simply a choice—it is often the only way students can afford essentials like housing, food, and transportation. This sketch illustrates how student work hours have evolved over the last decade, reflecting economic pressures, recession impacts, and shifting job availability. The intention here is to show not just the data trend, but the lived experience behind the numbers.
+
+<div align="center">
+  <img src="Sketch3.png" alt="Sketch 3 – How Students Are Trying to Cope" width="70%">
+</div>
+
+*Figure 3. Bar sketch showing the 10-year trend in weekly work hours for employed college students.*
+
+This visualization highlights a familiar pattern in NCES data:  
+- **2012–2017:** Student work hours increased as everyday costs climbed faster than wages.  
+- **2020:** Hours dropped sharply—not because financial strain eased, but because many students lost access to campus jobs or local employment during the pandemic.  
+- **2022:** Students regained some hours, yet have not returned to pre-pandemic levels, leaving many still struggling to keep up with rising living costs.
+
+The sketch reflects the broader story that students are working harder than before, yet still falling behind—illustrating why rising living costs deserve as much attention as tuition when discussing college affordability.
+
 ---
 
 
