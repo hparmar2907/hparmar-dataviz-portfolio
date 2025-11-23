@@ -80,9 +80,9 @@ To refine my storyboard and ensure that my narrative communicates clearly to a n
 ## Target audience
 The primary target audience for this story is:
 
-• Current students
-• Recent graduates
-• Young adults preparing for or considering college
+- Current students
+- Recent graduates
+- Young adults preparing for or considering college
 
 These individuals are often directly affected by rising living expenses, financial aid gaps, and the increasing cost of higher education. They may not be data experts, but they are highly invested in understanding how affordability impacts their lives, choices, and long-term stability.
 
@@ -90,15 +90,15 @@ These individuals are often directly affected by rising living expenses, financi
 
 I selected three people from my network who reflect different experiences within this audience. Each participant brings a distinct perspective on college affordability and financial stress:
 
-Participant A — Current Undergraduate Student
+#### Participant A — Current Undergraduate Student
 
 Struggles with balancing part-time work and academic commitments; highly sensitive to changes in food and housing costs.
 
-Participant B — Recent Graduate
+#### Participant B — Recent Graduate
 
 Currently repaying student loans; has firsthand experience budgeting rent, groceries, and transportation right after graduating.
 
-Participant C — Prospective Graduate Student
+#### Participant C — Prospective Graduate Student
 
 Actively researching tuition and living expenses while deciding whether to continue their education; very interested in understanding long-term financial tradeoffs.
 
