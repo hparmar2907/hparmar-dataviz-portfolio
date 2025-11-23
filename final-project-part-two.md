@@ -154,5 +154,5 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline, generate persona images and help me to brainstorm titles.
 
