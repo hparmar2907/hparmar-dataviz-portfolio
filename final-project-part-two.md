@@ -145,10 +145,12 @@ Most participants found the rising-cost storyline intuitive and relatable. Housi
 
 The user interviews highlighted which parts of my visual story were already effective and where improvements were needed. Participants found the CPI charts clear and intuitive, but wanted clearer explanations of terms such as “CPI” and why the national average cost of attendance appears lower than expected. The tuition and financial gap visualizations were informative but required more labeling, annotations, and contextual notes to improve readability. Additionally, users expressed a desire for smoother transitions between sections so they could understand how rising housing, food, and tuition costs connect to the overall financial strain on students. A consistent theme across all interviews was the need to emphasize not just the data, but the lived experience behind it — the emotional and practical consequences for students managing school, work, and rising expenses. These insights will guide my Part III refinements as I enhance clarity, improve labeling, strengthen narrative flow, and tie each visual more directly to real student experiences.
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+# Personas
+Understanding the perspectives of students and young professionals is essential to telling the story of rising costs and financial strain.  
+These personas represent the real challenges faced by current students, recent graduates, and early-career professionals as they navigate tuition, rent, groceries, and student loan burdens.
+<p align="center">
+  <img src="Personas.png" alt="Student Financial Experience Personas" width="100%">
+</p>
 
 ## References
 U.S. Bureau of Labor Statistics. (2024). Consumer Price Index (CPI) databases. U.S. Department of Labor.
