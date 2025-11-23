@@ -151,7 +151,23 @@ The user interviews highlighted which parts of my visual story were already effe
 Text here!
 
 ## References
-_List any references you used here._
+U.S. Bureau of Labor Statistics. (2024). Consumer Price Index (CPI) databases. U.S. Department of Labor. https://www.bls.gov/cpi/
+
+U.S. Bureau of Labor Statistics. (2024). Food-at-home consumer price index, annual averages. U.S. Department of Labor. https://www.bls.gov/cpi/tables/home.htm
+
+U.S. Bureau of Labor Statistics. (2024). Shelter and housing consumer price index, annual averages. U.S. Department of Labor. https://www.bls.gov/cpi/tables/shelter.htm
+
+U.S. Bureau of Labor Statistics. (2024). Weekly earnings of wage and salary workers (ages 16–24). Current Population Survey. https://www.bls.gov/cps/
+
+National Center for Education Statistics. (2024). Table 330.10: Average undergraduate tuition, fees, room, and board rates charged for full-time students in degree-granting postsecondary institutions. U.S. Department of Education. https://nces.ed.gov/programs/digest/
+
+National Center for Education Statistics. (2024). Table 330.40: Average total cost of attendance for first-time, full-time students in degree-granting postsecondary institutions. U.S. Department of Education. https://nces.ed.gov/programs/digest/
+
+Tableau Software. (2024). Tableau Desktop (Version 2024.x) [Computer software]. Tableau. https://www.tableau.com/
+
+Microsoft Corporation. (2024). Microsoft Copilot [AI productivity tool]. Microsoft. https://www.microsoft.com/en-us/microsoft-copilot
+
+Grammarly, Inc. (2024). Grammarly [Writing assistance software]. Grammarly. https://www.grammarly.com/
 
 ## AI acknowledgements
 I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Chatgpt to organise my storyline, generate persona images and help me to brainstorm titles.
