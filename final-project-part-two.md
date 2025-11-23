@@ -76,11 +76,31 @@ But the story isn’t just about struggle — it’s about awareness.
 By understanding where and how costs are rising, we can start conversations about support, policy, and systems that genuinely reflect the financial realities students face today.
 
 # User research 
-
+To refine my storyboard and ensure that my narrative communicates clearly to a non-technical audience, I conducted user research with three individuals who closely represent my intended readers. The goal of this process was to understand how effectively my early wireframes and visual drafts conveyed the rising cost pressures on students, and to identify areas where the clarity, emotional impact, or flow could be improved.
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The primary target audience for this story is:
 
-Text here!
+• Current students
+• Recent graduates
+• Young adults preparing for or considering college
+
+These individuals are often directly affected by rising living expenses, financial aid gaps, and the increasing cost of higher education. They may not be data experts, but they are highly invested in understanding how affordability impacts their lives, choices, and long-term stability.
+
+### Approach for Identifying Participants
+
+I selected three people from my network who reflect different experiences within this audience. Each participant brings a distinct perspective on college affordability and financial stress:
+
+Participant A — Current Undergraduate Student
+
+Struggles with balancing part-time work and academic commitments; highly sensitive to changes in food and housing costs.
+
+Participant B — Recent Graduate
+
+Currently repaying student loans; has firsthand experience budgeting rent, groceries, and transportation right after graduating.
+
+Participant C — Prospective Graduate Student
+
+Actively researching tuition and living expenses while deciding whether to continue their education; very interested in understanding long-term financial tradeoffs.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
