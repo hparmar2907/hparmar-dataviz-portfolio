@@ -131,7 +131,6 @@ Most participants found the rising-cost storyline intuitive and relatable. Housi
 
 
 # Identified changes for Part III
-## Identified Changes for Part III
 
 | Research Synthesis | Anticipated Changes for Part III |
 |--------------------|----------------------------------|
