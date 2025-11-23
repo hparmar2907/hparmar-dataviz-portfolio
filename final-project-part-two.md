@@ -102,7 +102,6 @@ Currently repaying student loans; has firsthand experience budgeting rent, groce
 
 Actively researching tuition and living expenses while deciding whether to continue their education; very interested in understanding long-term financial tradeoffs.
 
-## Interview script
 ## Interview Script
 
 | **Goal** | **Questions** |
@@ -113,18 +112,7 @@ Actively researching tuition and living expenses while deciding whether to conti
 | **Explore engagement & surprises** | Which part of the story caught your attention? Did any data point surprise you? |
 | **Gather suggestions** | What changes would make the visuals or narrative clearer? Is anything missing? |
 | **Check narrative framing** | Does the story feel more about student experience or broader economic trends? Which framing feels more impactful? |
-                              |
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
