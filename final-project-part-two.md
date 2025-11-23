@@ -115,15 +115,19 @@ Actively researching tuition and living expenses while deciding whether to conti
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+After conducting three user interviews with students and recent graduates, several consistent themes emerged. Overall, participants understood the story and felt the charts were relevant and engaging, but they also identified specific areas where clarity, context, and labeling could be improved. Their feedback helped me understand how readers interpret affordability data and what elements make the narrative emotionally resonant.
 
-Text here!
+### Summary of Insights
+Most participants found the rising-cost storyline intuitive and relatable. Housing and food charts were the clearest, while the tuition and financial gap visualizations required more explanation. Participants wanted more annotations, clearer axis labels, and occasional context reminders (e.g., “Why does the cost of attendance seem lower than expected?”). The emotional arc — showing how multiple costs stack up — was effective, but needed subtle guiding text to help tie visualizations together.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| **Questions** | **Interview 1 (Current Student)** | **Interview 2 (Recent Graduate)** | **Interview 3 (Prospective Grad Student)** |
+|---------------|-----------------------------------|------------------------------------|--------------------------------------------|
+| **Initial impression of the story** | Found the housing chart “very real and instantly relatable.” Said the order made sense and felt like a natural buildup of financial pressure. | Liked the progression but said the tuition chart “felt lower than expected,” which made them curious. | Appreciated the structure but said they wanted “more emphasis on how these costs compound together.” |
+| **Clarity of visualizations** | Housing and food CPI charts were the clearest: “The spikes make sense visually.” | Understood all charts but said dual-axis chart (financial gap) “needed clearer labels.” | Found tuition and gap charts hardest to interpret: “I needed more context to understand why values look small.” |
+| **Confusing elements** | Confused about what CPI measures until reading caption: “Maybe define it upfront.” | Asked why NCES cost averages were so low compared to typical tuition numbers. | Struggled with scale differences: “Costs rise faster than wages — but the graph needs clearer emphasis.” |
+| **What was most engaging or surprising** | Surprised by sharp post-2020 food inflation: “I didn’t realize groceries jumped that much.” | Found wage stagnation “shockingly obvious after seeing it visualized.” | Most surprised by how steady tuition rises: “Even low inflation years still increased costs.” |
+| **Suggestions for improvement** | Add small explanations under titles (e.g., CPI definition). | Add annotations to highlight key moments (post-2020 spike, tuition trend). | Make transitions between sections clearer and highlight emotional impact. |
+| **Preferred framing** | More student-focused, less economic-jargon based. | Balanced mix of personal impact + broader trends. | Wants stronger narrative around long-term affordability concerns. |
 
 
 # Identified changes for Part III
