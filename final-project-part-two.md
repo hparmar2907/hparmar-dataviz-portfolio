@@ -57,6 +57,24 @@ even a hardworking student with consistent part-time hours cannot keep pace with
 This financial gap is a core part of the modern student experience, and the visualization below makes that widening divide impossible to ignore.
 <div class='tableauPlaceholder' id='viz1763921721639' style='position: relative'><noscript><a href='#'><img alt='The Real Financial Gap: Students Cannot Keep Up With Rising College CostsCosts are rising faster than what students can earn from typical part-time work (20 hours&#47;week × 35 weeks).Source: NCES Table 330.10 (inflation-adjusted cost)BLS CPS Weekly Earnin ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProjectSketch4&#47;Sheet6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProjectSketch4&#47;Sheet6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProjectSketch4&#47;Sheet6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  <script type='text/javascript'> var divElement = document.getElementById('viz1763921721639'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
+## The End: What These Rising Costs Mean for Young Adults Today
+After looking at housing, groceries, tuition, and the widening financial gap, the final takeaway becomes clear:
+
+Young adults today are entering adulthood facing higher baseline living costs than any recent generation. 
+Housing — the largest monthly expense — has steadily climbed year after year. Groceries, once a stable category, spiked sharply after 2020 and remain elevated. And higher education, long viewed as the pathway to upward mobility, has become substantially more expensive while part-time student earnings have barely kept up.
+
+In isolation, each chart tells a story of gradual increase.
+But together, they reveal something more powerful:
+ - Every major cost required to build a stable adult life is rising at the same time.
+ - These increases outpace what young people can earn while in school.
+ - This squeezes students academically, financially, and emotionally.
+
+For many, this means taking on more loans, delaying milestones like moving out, or working longer hours — often at the cost of sleep, mental health, and academic performance. The data brings into focus the everyday reality behind headlines about affordability and “cost-of-living crises.”
+
+But the story isn’t just about struggle — it’s about awareness.
+
+By understanding where and how costs are rising, we can start conversations about support, policy, and systems that genuinely reflect the financial realities students face today.
+
 # User research 
 
 ## Target audience
