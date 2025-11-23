@@ -103,7 +103,14 @@ Currently repaying student loans; has firsthand experience budgeting rent, groce
 Actively researching tuition and living expenses while deciding whether to continue their education; very interested in understanding long-term financial tradeoffs.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+| **Goal**                                   | **Questions to Ask**                                                                                                                                                                           |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Assess the story flow**                  | • What was your initial impression of the story flow from housing → food → tuition → financial gap?<br>• Did the sequence make sense, or did any section feel out of place?                    |
+| **Evaluate clarity of visuals**            | • Were the charts easy to read and interpret?<br>• Which visualization felt the clearest to you, and why?                                                                                      |
+| **Identify unclear or confusing elements** | • Did any visual, label, or number confuse you?<br>• Was there any point where you had to pause to understand what you were looking at?                                                        |
+| **Explore engagement and surprises**       | • Which part of the story caught your attention the most?<br>• Did any data point surprise you (e.g., average cost of attendance being lower than expected, CPI spikes, or the financial gap)? |
+| **Gather suggestions for improvement**     | • What changes would make the visuals or narrative clearer?<br>• Is there anything missing that you wish the story included?                                                                   |
+| **Check narrative framing**                | • Does the story feel more focused on students’ lived experiences or on broader economic trends?<br>• Which framing feels more impactful or relevant to you?                                   |
 
 Text here!
 
