@@ -131,21 +131,18 @@ Most participants found the rising-cost storyline intuitive and relatable. Housi
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+| **Research Synthesis** | **Anticipated Changes for Part III** |
+|------------------------|---------------------------------------|
+| Some participants were unsure why the cost of attendance looked lower than expected. | Add a brief clarification under the chart explaining that NCES reports a national weighted average across all institution types. |
+| Dual-axis “Financial Gap” chart was harder to interpret. | Add direct labels on the lines, simplify the color contrast, or include a brief annotation explaining the wage vs. cost difference. |
+| CPI charts were clear, but some users did not know what CPI meant at first glance. | Add a small grey subtitle defining CPI as “Consumer Price Index (inflation measure).” |
+| Participants wanted more guidance between sections. | Add short transitions in Shorthand (1–2 sentences) to connect housing → food → tuition → financial gap. |
+| Some viewers missed the emotional impact behind the rising costs. | Strengthen annotations that highlight key moments (e.g., “Post-2020 spike,” “Wages flatten,” “Tuition rises even in low-inflation years”). |
+| Users liked the clarity of the housing and food charts and found them intuitive. | Use these as formatting references for consistent chart styling across all visuals. |
+| Wages rising more slowly was noticed but not immediately obvious visually. | Add a callout noting wage growth is minimal compared to cost growth. |
+| The story felt informative but could lean more into real-life student experiences. | Add student-focused phrasing (e.g., “For a typical student working 20 hours per week…”) to make the narrative more relatable. |
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+The user interviews highlighted which parts of my visual story were already effective and where improvements were needed. Participants found the CPI charts clear and intuitive, but wanted clearer explanations of terms such as “CPI” and why the national average cost of attendance appears lower than expected. The tuition and financial gap visualizations were informative but required more labeling, annotations, and contextual notes to improve readability. Additionally, users expressed a desire for smoother transitions between sections so they could understand how rising housing, food, and tuition costs connect to the overall financial strain on students. A consistent theme across all interviews was the need to emphasize not just the data, but the lived experience behind it — the emotional and practical consequences for students managing school, work, and rising expenses. These insights will guide my Part III refinements as I enhance clarity, improve labeling, strengthen narrative flow, and tie each visual more directly to real student experiences.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
