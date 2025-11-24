@@ -21,6 +21,8 @@ Ultimately, this project is not only about numbers. It’s about understanding t
 
 I will use this storyboard as the foundation for my Part III draft in Shorthand, where I will refine the narrative, integrate the Tableau visualizations, and strengthen the overall flow and clarity.
 
+Shorthand preview link: [View my Shorthand story](https://preview.shorthand.com/9JhH7P9I14aBDEj8)
+
 ## The Introduction: Understanding the Rising Cost of Living for Students
 The story begins with a simple but important question:
 How much more expensive has it become to be a student today?
