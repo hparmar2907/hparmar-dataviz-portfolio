@@ -1,6 +1,6 @@
 | [home page](https://hparmar2907.github.io/hparmar-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Final Project — Part III: Behind the Scenes & Reflection
+# Final Project Part III: Behind the Scenes & Reflection
 Portfolio: [hparmar-dataviz-portfolio](https://github.com/hparmar2907/hparmar-dataviz-portfolio)
 
 Shorthand link: [View my Shorthand story](https://preview.shorthand.com/9JhH7P9I14aBDEj8)
@@ -44,7 +44,7 @@ The project is designed for:
 - young adults preparing for higher education.
 
 These are individuals directly affected by shifts in wages, inflation, and tuition costs. To better understand this group, I developed three personas during Part III:
-a current student balancing work and expenses, a recent graduate repaying loans, and a prospective student evaluating affordability. These personas helped test whether the story addressed the questions and concerns that matter most to them.
+a current student balancing work and expenses, a recent graduate repaying loans, and a prospective student evaluating affordability. These personas helped test whether the story addressed the questions and concerns that matter most to them. This audience is directly impacted by rising living and education costs, so designing a story that is clear, relatable, and easy to understand was essential to ensuring the insights were meaningful for them.
 
 ### User Research Insights
 
@@ -84,7 +84,7 @@ Overall, these changes helped make the story more grounded, easier to follow, an
 
 ## Reflection
 
-Working through Part III gave me a deeper appreciation for how data stories evolve. A strong narrative is not just a collection of charts; it is the result of careful decisions about pacing, emphasis, audience needs, and visual clarity. The combination of interviews, personas, and design iteration helped turn the original idea into something more focused and meaningful.
+Working through Part III gave me a deeper appreciation for how data stories evolve. A strong narrative is not just a collection of charts; it is the result of careful decisions about pacing, emphasis, audience needs, and visual clarity. The combination of interviews, personas, and design iteration helped turn the original idea into something more focused and meaningful. I intentionally used simple, muted colors and direct on-chart annotations to keep the visualizations easy to interpret and to ensure the focus stayed on the trends rather than on decorative elements.
 
 This stage also reinforced how important it is to balance data with real-world context. Rising costs and stagnant earnings are not just economic concepts — they affect day-to-day choices and long-term opportunities for students. Keeping this human perspective in mind shaped the way the final story reads.
 
