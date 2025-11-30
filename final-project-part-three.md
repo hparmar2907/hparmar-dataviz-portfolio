@@ -1,24 +1,98 @@
 | [home page](https://hparmar2907.github.io/hparmar-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# Final Project — Part III: Behind the Scenes & Reflection
+Shorthand link: [View my Shorthand story](https://preview.shorthand.com/9JhH7P9I14aBDEj8)
 
-Text here!
+## Overview
+
+This write-up documents how my final data story,
+From Stability to Strain: How Rising Costs Are Outpacing Student Earnings,
+evolved during Part III of the project. Rather than repeating work from Parts I and II, this section explains how earlier sketches, datasets, user interviews, and design tests informed the final version of the story. It also highlights the revisions I made, the audience I designed for, and the choices that shaped the final Shorthand narrative.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Moving into Part III, my focus shifted from assembling visualizations to shaping a cohesive story. I had initially collected several datasets — housing CPI, food CPI, tuition averages, and student earnings — but the narrative still needed stronger pacing and clearer transitions. Part III became the stage where I organized these elements and made the story easier to follow.
 
-Text here!
+1. Tightening the Story Structure
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Feedback showed that the narrative worked best when following a clear progression:
 
-Text here!
+- rising day-to-day costs,
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+- rising education costs,
 
-Text here!
+- the widening gap between expenses and earnings.
+
+Reworking the structure around these three chapters made the story feel more intentional and easier to grasp.
+
+2. Turning Charts Into Explanations
+
+Earlier drafts relied heavily on visuals with long paragraphs of text beside them. In Part III, I trimmed down explanations and allowed captions, brief definitions, and annotations to do the heavy lifting. This helped keep the pacing smooth in Shorthand.
+
+3. Improving Clarity
+
+Some terms, especially economic language such as CPI, needed small definitions. Small additions like this helped the story remain accessible to readers without a background in economics.
+
+## Audience: Who the Story Is For
+The project is designed for:
+
+- current college students,
+
+- recent graduates, and
+
+- young adults preparing for higher education.
+
+These are individuals directly affected by shifts in wages, inflation, and tuition costs. To better understand this group, I developed three personas during Part III:
+a current student balancing work and expenses, a recent graduate repaying loans, and a prospective student evaluating affordability. These personas helped test whether the story addressed the questions and concerns that matter most to them.
+
+### User Research Insights
+
+I walked individuals through my storyboards and early draft charts. Each person fit the demographics I was targeting. Their feedback was helpful in refining the flow and sharpening parts of the narrative.
+
+### Key Observations
+
+- The CPI charts were intuitive and immediately relatable.
+
+- The earnings-vs-cost chart had the strongest emotional impact.
+
+- Several people wanted more context behind the tuition numbers.
+
+- Some transitions felt abrupt and needed smoother framing.
+
+- Condensed call-out text worked better than long explanations.
+
+### Adjustments Based on Their Feedback
+
+- Added brief definitions under relevant charts.
+
+- Strengthened transitions between sections.
+
+- Clarified why NCES tuition numbers appear lower than expected.
+
+- Highlighted important values using annotations and call-outs.
+
+- Reworked the ending to include practical advice rather than simply noting the issue.
+
+## Changes Made for the Final Audience
+
+After combining interview feedback, persona needs, and my own review of the draft, I made several specific updates:
+
+Clearer captions and annotations for key insights.
+
+Reordered sections to follow a logical cost-to-burden-to-gap progression.
+
+Shortened longer explanations and replaced them with concise highlights.
+
+Explicitly addressed why national tuition averages differ from individual college prices.
+
+Strengthened the final slide with a more actionable direction for the reader.
+
+All of these changes helped ensure the story was grounded, readable, and clearly relevant for students and recent graduates.
+
+## Reflection
+
+Working through Part III gave me a deeper appreciation for how data stories evolve. A strong narrative is not just a collection of charts; it is the result of careful decisions about pacing, emphasis, audience needs, and visual clarity. The combination of interviews, personas, and design iteration helped turn the original idea into something more focused and meaningful.
+
+This stage also reinforced how important it is to balance data with real-world context. Rising costs and stagnant earnings are not just economic concepts — they affect day-to-day choices and long-term opportunities for students. Keeping this human perspective in mind shaped the way the final story reads.
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
