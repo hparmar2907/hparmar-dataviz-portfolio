@@ -64,31 +64,23 @@ I walked individuals through my storyboards and early draft charts. Each person 
 
 ### Adjustments Based on Their Feedback
 
-- Added brief definitions under relevant charts.
+User interviews, persona development, and early storyboard reviews helped me refine my narrative and make the visual story clearer and more relevant for students and young adults. Based on this feedback, I made several focused updates:
 
-- Strengthened transitions between sections.
+- Added short definitions (like CPI) directly under charts to reduce confusion.
 
-- Clarified why NCES tuition numbers appear lower than expected.
+- Reordered the narrative to follow a natural progression: living costs → college costs → the financial gap.
 
-- Highlighted important values using annotations and call-outs.
+- Strengthened transitions between sections so the story feels continuous rather than segmented.
 
-- Reworked the ending to include practical advice rather than simply noting the issue.
+- Added concise annotations and call-outs to highlight important insights without long explanations.
 
-## Changes Made for the Final Audience
+- Clarified why NCES tuition averages appear lower than typical tuition “sticker prices.”
 
-After combining interview feedback, persona needs, and my own review of the draft, I made several specific updates:
+- Simplified long paragraphs into shorter, more readable pieces.
 
-- Clearer captions and annotations for key insights.
+- Refined the final call-to-action slide to offer practical next steps for colleges and institutions.
 
-- Reordered sections to follow a logical cost-to-burden-to-gap progression.
-
-- Shortened longer explanations and replaced them with concise highlights.
-
-- Explicitly addressed why national tuition averages differ from individual college prices.
-
-- Strengthened the final slide with a more actionable direction for the reader.
-
-All of these changes helped ensure the story was grounded, readable, and clearly relevant for students and recent graduates.
+Overall, these changes helped make the story more grounded, easier to follow, and directly aligned with what my audience said they needed.
 
 ## Reflection
 
