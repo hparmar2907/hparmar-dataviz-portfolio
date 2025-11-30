@@ -115,8 +115,10 @@ I used Grammarly to review my written work to verify that it was clear, grammati
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+This project ended up teaching me far more than I expected. I started with a simple idea — show how student costs are rising — but turning it into a clear and meaningful story took a surprising amount of iteration. User interviews, personas, and early sketches helped me realize how important it is to focus on what actually matters to students, not just what looks good in a chart.
 
-Text here!
+I didn’t get to explore everything I hoped to, but I’m proud of how the narrative came together. If I had more time, I’d dig deeper into financial aid trends and regional differences, since affordability varies so much by place. The biggest thing I learned is that good visual storytelling is less about the visuals and more about empathy — helping people understand an issue in a way that feels real and relatable.
+
+Overall, I genuinely enjoyed building this project and seeing how each piece connected to the next. It was challenging, but in the best way.
 
 
