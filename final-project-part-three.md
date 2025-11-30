@@ -111,9 +111,8 @@ Federal Reserve Bank of New York. (2024). Quarterly Report on Household Debt and
 Georgetown University Center on Education and the Workforce. (2021). Learning While Earning: The New Normal. Retrieved from https://cew.georgetown.edu
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+I used Grammarly to review my written work to verify that it was clear, grammatically correct, and tone consistent throughout. I used Copilot to organise my storyline and brainstorm titles/headings.
 
-Text here!
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
