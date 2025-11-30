@@ -95,7 +95,20 @@ Working through Part III gave me a deeper appreciation for how data stories evol
 This stage also reinforced how important it is to balance data with real-world context. Rising costs and stagnant earnings are not just economic concepts — they affect day-to-day choices and long-term opportunities for students. Keeping this human perspective in mind shaped the way the final story reads.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
+U.S. Bureau of Labor Statistics. (2025). Consumer Price Index: Housing and Food Series (CUSR0000SAH1, CUSR0000SAF1). Retrieved from https://www.bls.gov/cpi/
+
+National Center for Education Statistics. (2025). Table 330.10: Average undergraduate tuition, fees, room, and board rates charged for full-time students in degree-granting postsecondary institutions, by level and control of institution. Retrieved from https://nces.ed.gov/
+
+National Center for Education Statistics. (2025). Table 503.20: Percentage of full-time and part-time undergraduates who worked, by control and level of institution. Retrieved from https://nces.ed.gov/
+
+National Center for Education Statistics. (2023). Digest of Education Statistics: Student Financial Aid and Earnings Data. Retrieved from https://nces.ed.gov/programs/digest/
+
+College Board. (2024). Trends in College Pricing and Student Aid 2024. Retrieved from https://research.collegeboard.org
+
+Federal Reserve Bank of New York. (2024). Quarterly Report on Household Debt and Credit. Retrieved from https://www.newyorkfed.org/microeconomics
+
+Georgetown University Center on Education and the Workforce. (2021). Learning While Earning: The New Normal. Retrieved from https://cew.georgetown.edu
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
