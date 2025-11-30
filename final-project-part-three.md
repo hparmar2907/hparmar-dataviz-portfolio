@@ -1,6 +1,7 @@
 | [home page](https://hparmar2907.github.io/hparmar-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final Project — Part III: Behind the Scenes & Reflection
+Portfolio: [hparmar-dataviz-portfolio](https://github.com/hparmar2907/hparmar-dataviz-portfolio)
 Shorthand link: [View my Shorthand story](https://preview.shorthand.com/9JhH7P9I14aBDEj8)
 
 ## Overview
