@@ -35,8 +35,26 @@ Here are the parts:
 ---
 
 ## References
-_List any references you used here._
+Datasets & Government Sources
+
+U.S. Bureau of Labor Statistics. (2025). Consumer Price Index: Housing and Food Series (CUSR0000SAH1, CUSR0000SAF1). Retrieved from https://www.bls.gov/cpi/
+
+National Center for Education Statistics. (2025). Table 330.10: Average undergraduate tuition, fees, room, and board rates charged for full-time students in degree-granting postsecondary institutions. Retrieved from https://nces.ed.gov/
+
+National Center for Education Statistics. (2025). Table 503.20: Percentage of full-time and part-time undergraduates who worked, by control and level of institution. Retrieved from https://nces.ed.gov/
+
+National Center for Education Statistics. (2023). Digest of Education Statistics: Student Financial Aid and Earnings Data. Retrieved from https://nces.ed.gov/programs/digest/
+
+Supporting Research
+
+College Board. (2024). Trends in College Pricing and Student Aid 2024. Retrieved from https://research.collegeboard.org
+
+Federal Reserve Bank of New York. (2024). Quarterly Report on Household Debt and Credit. Retrieved from https://www.newyorkfed.org/microeconomics
+
+Georgetown University Center on Education and the Workforce. (2021). Learning While Earning: The New Normal. Retrieved from https://cew.georgetown.edu
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Grammarly to review my writing for clarity, grammar, and tone consistency.
+I also used Microsoft Copilot to help brainstorm section headings, refine story structure, and organize my narrative flow.
+All analysis, data cleaning, visualizations, design decisions, and final writing were completed by me.
 
