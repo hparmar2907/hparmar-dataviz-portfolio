@@ -16,23 +16,23 @@ Moving into Part III, my focus shifted from assembling visualizations to shaping
 
 1. Tightening the Story Structure
 
-Feedback showed that the narrative worked best when following a clear progression:
+   Feedback showed that the narrative worked best when following a clear progression:
 
-- rising day-to-day costs,
+   - rising day-to-day costs,
 
-- rising education costs,
+   - rising education costs,
 
-- the widening gap between expenses and earnings.
+   - the widening gap between expenses and earnings.
 
-Reworking the structure around these three chapters made the story feel more intentional and easier to grasp.
+   Reworking the structure around these three chapters made the story feel more intentional and easier to grasp.
 
 2. Turning Charts Into Explanations
 
-Earlier drafts relied heavily on visuals with long paragraphs of text beside them. In Part III, I trimmed down explanations and allowed captions, brief definitions, and annotations to do the heavy lifting. This helped keep the pacing smooth in Shorthand.
+   Earlier drafts relied heavily on visuals with long paragraphs of text beside them. In Part III, I trimmed down explanations and allowed         captions, brief definitions, and annotations to do the heavy lifting. This helped keep the pacing smooth in Shorthand.
 
 3. Improving Clarity
 
-Some terms, especially economic language such as CPI, needed small definitions. Small additions like this helped the story remain accessible to readers without a background in economics.
+   Some terms, especially economic language such as CPI, needed small definitions. Small additions like this helped the story remain accessible    to readers without a background in economics.
 
 ## Audience: Who the Story Is For
 The project is designed for:
