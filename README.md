@@ -25,9 +25,9 @@ This project explores how government debt has evolved across countries over time
 In this project, I analyzed a NOAA climate visualization on greenhouse gas trends, critiquing it for clarity, accessibility, and design effectiveness. Using those insights, I created an interactive redesign where users can click any year to compare changes, view percentage shifts, and explore how different gases have evolved over time. The project focuses on improving data storytelling through thoughtful color, interaction, and usability choices. 
 
 ## Final project
-This section will include my work for the final project in Telling Stories with Data.
+This final project explores how rising housing costs, food prices, and college expenses are putting increasing financial pressure on students — and how their earnings struggle to keep up. Through a series of data-driven visualizations, I highlight the gap between what students need to afford and what they can realistically earn. Parts I, II, and III walk through the development of this story: from early sketches to user research, storyboard drafts, and the final Shorthand narrative.
 
-Here are the parts I’ll be adding as I go: 
+Here are the parts: 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
