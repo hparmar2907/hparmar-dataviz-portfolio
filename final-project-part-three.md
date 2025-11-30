@@ -76,15 +76,15 @@ I walked individuals through my storyboards and early draft charts. Each person 
 
 After combining interview feedback, persona needs, and my own review of the draft, I made several specific updates:
 
-Clearer captions and annotations for key insights.
+- Clearer captions and annotations for key insights.
 
-Reordered sections to follow a logical cost-to-burden-to-gap progression.
+- Reordered sections to follow a logical cost-to-burden-to-gap progression.
 
-Shortened longer explanations and replaced them with concise highlights.
+- Shortened longer explanations and replaced them with concise highlights.
 
-Explicitly addressed why national tuition averages differ from individual college prices.
+- Explicitly addressed why national tuition averages differ from individual college prices.
 
-Strengthened the final slide with a more actionable direction for the reader.
+- Strengthened the final slide with a more actionable direction for the reader.
 
 All of these changes helped ensure the story was grounded, readable, and clearly relevant for students and recent graduates.
 
