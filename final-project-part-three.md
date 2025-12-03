@@ -12,28 +12,33 @@ From Stability to Strain: How Rising Costs Are Outpacing Student Earnings,
 evolved during Part III of the project. Rather than repeating work from Parts I and II, this section explains how earlier sketches, datasets, user interviews, and design tests informed the final version of the story. It also highlights the revisions I made, the audience I designed for, and the choices that shaped the final Shorthand narrative.
 
 # Changes made since Part II
-Moving into Part III, my focus shifted from assembling visualizations to shaping a cohesive story. I had initially collected several datasets — housing CPI, food CPI, tuition averages, and student earnings — but the narrative still needed stronger pacing and clearer transitions. Part III became the stage where I organized these elements and made the story easier to follow.
+Strengthening the Call to Action
 
-1. Tightening the Story Structure
+Based on instructor feedback, I revised the conclusion to make the call to action more focused, meaningful, and actionable. Instead of ending with general observations, the final section now outlines specific steps institutions can take to support students. I also added direct links to real resources — including federal aid, state programs, university support, and community-based scholarships — so readers can immediately explore the options available to them.
 
-   Feedback showed that the narrative worked best when following a clear progression:
+Enhancing the Visualizations
 
-   - rising day-to-day costs,
+To improve interpretability, I added reference lines to key years — particularly 2021, a turning point when housing and food costs rose sharply due to inflation. These visual guides help readers quickly recognize when financial pressures on students intensified.
 
-   - rising education costs,
+Tightening the Story Structure
 
-   - the widening gap between expenses and earnings.
+Feedback showed that the narrative worked best when following a clear progression:
 
-   Reworking the structure around these three chapters made the story feel more intentional and easier to grasp.
+Rising day-to-day living costs
 
-2. Turning Charts Into Explanations
+Rising education costs
 
-   Earlier drafts relied heavily on visuals with long paragraphs of text beside them. In Part III, I trimmed down explanations and allowed         captions, brief definitions, and annotations to do the heavy lifting. This helped keep the pacing smooth in Shorthand.
+The widening gap between expenses and earnings
 
-3. Improving Clarity
+Reorganizing the story around these three chapters made the narrative cleaner, more intentional, and easier for readers to follow.
 
-   Some terms, especially economic language such as CPI, needed small definitions. Small additions like this helped the story remain accessible    to readers without a background in economics.
+Turning Charts Into Explanations
 
+Earlier drafts relied heavily on visuals paired with long paragraphs of written explanation. In Part III, I shifted toward concise captions, short definitions, and annotations that allow the visualizations to communicate more of the story on their own. This improved pacing and clarity within the Shorthand experience.
+
+Improving Clarity
+
+Some economic terms — particularly CPI — were unfamiliar to several readers during user testing. Adding brief definitions directly beneath the charts helped keep the story accessible for students and young adults without a technical background.
 ## Audience: Who the Story Is For
 The project is designed for:
 
