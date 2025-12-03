@@ -12,15 +12,15 @@ From Stability to Strain: How Rising Costs Are Outpacing Student Earnings,
 evolved during Part III of the project. Rather than repeating work from Parts I and II, this section explains how earlier sketches, datasets, user interviews, and design tests informed the final version of the story. It also highlights the revisions I made, the audience I designed for, and the choices that shaped the final Shorthand narrative.
 
 # Changes made since Part II
-Strengthening the Call to Action
+### Strengthening the Call to Action
 
 Based on instructor feedback, I revised the conclusion to make the call to action more focused, meaningful, and actionable. Instead of ending with general observations, the final section now outlines specific steps institutions can take to support students. I also added direct links to real resources — including federal aid, state programs, university support, and community-based scholarships — so readers can immediately explore the options available to them.
 
-Enhancing the Visualizations
+### Enhancing the Visualizations
 
 To improve interpretability, I added reference lines to key years — particularly 2021, a turning point when housing and food costs rose sharply due to inflation. These visual guides help readers quickly recognize when financial pressures on students intensified.
 
-Tightening the Story Structure
+### Tightening the Story Structure
 
 Feedback showed that the narrative worked best when following a clear progression:
 
@@ -32,11 +32,11 @@ The widening gap between expenses and earnings
 
 Reorganizing the story around these three chapters made the narrative cleaner, more intentional, and easier for readers to follow.
 
-Turning Charts Into Explanations
+### Turning Charts Into Explanations
 
 Earlier drafts relied heavily on visuals paired with long paragraphs of written explanation. In Part III, I shifted toward concise captions, short definitions, and annotations that allow the visualizations to communicate more of the story on their own. This improved pacing and clarity within the Shorthand experience.
 
-Improving Clarity
+### Improving Clarity
 
 Some economic terms — particularly CPI — were unfamiliar to several readers during user testing. Adding brief definitions directly beneath the charts helped keep the story accessible for students and young adults without a technical background.
 ## Audience: Who the Story Is For
